@@ -1,0 +1,6 @@
+These codes are an attempt to try my hands on Flash Memory of the TM4C1294XL Board.
+
+main.c file has the test code for the Flash Driver.
+
+Flash.c exposes the function for Flash Erase and Flash Program.
+
