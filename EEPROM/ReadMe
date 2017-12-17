@@ -1,0 +1,7 @@
+EEPROM DRIVER
+
+Here in these codes I have tried to use EEPROM Peripheral present on the TM4C1294XL board.
+Codes implement some functions to Initialize, Program and Read the EEPROM memory.
+
+I am not using any Libraries and have defined requisite registers myself.
+
