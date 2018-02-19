@@ -1,0 +1,16 @@
+A simple UART working code for the TM4C1294XL board
+
+This code initializes the UART0 on PortA
+Here we are also enabling the Loop-back feature available for debuging - In Loop-Back Tx is feebacked to Rx.
+so we would not need any other board with UART for testing; one can also initialize another UART available on TM4C1294XL and connect the two
+
+UART0 is initialized for:
+PORT0;
+Baud Rate: 115200
+NO PARITY;
+NO BREAK;
+1 STOP BIT;
+NO FIFO;
+NO INTERRUPT;
+
+
